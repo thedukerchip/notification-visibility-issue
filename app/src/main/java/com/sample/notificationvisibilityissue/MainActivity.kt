@@ -98,5 +98,5 @@ class MainActivity : AppCompatActivity() {
 }
 
 const val PRIVATE_CHANNEL_ID = "message-private"
-const val PRIVATE_CHANNEL_NAME = ""
-const val PRIVATE_CHANNEL_DESC = ""
+const val PRIVATE_CHANNEL_NAME = "Private messages"
+const val PRIVATE_CHANNEL_DESC = "Incoming private messages"
